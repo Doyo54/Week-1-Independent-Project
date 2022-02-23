@@ -1,0 +1,30 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    float: left;
+  }
+ 
+  h1 {
+    color: rgb(0, 38, 255);
+    text-align: center;
+    font-size: xxx-large;
+  }
+  
+p {
+ font-size: xx-large;
+ color: rgb(42, 61, 165);
+ margin: 1%;
+
+}
+ul {
+    font-size: x-large;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {background-color: coral;}
+
+
+  
