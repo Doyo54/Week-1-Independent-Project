@@ -17,8 +17,14 @@ border: 0px;
     color: rgb(0, 38, 255);
     text-align: center;
     font-size: xxx-large;
+
   }
-  
+  h2 { 
+   text-align: left;
+   font-size: xx-large;
+
+  }
+
 p {
  font-size: xx-large;
  color: rgb(42, 61, 165);
@@ -26,12 +32,26 @@ p {
 
 }
 ul {
-    font-size: x-large;
-    margin-left: auto;
-    margin-right: auto;
+    font-size: xx-large;
+
 }
 
-body {background-color: coral;}
+body { background-color: yellowgreen;}
 
+
+@media screen and (min-width: 768px) {
+  body {
+    background-color: yellowgreen;
+  }
+  .column {
+    width: 400px;
+    float: left;
+    padding: 15px;
+  }
+}
+.important {
+  color: maroon;
+}
+  
 
   
