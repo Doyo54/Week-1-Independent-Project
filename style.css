@@ -2,10 +2,9 @@
 margin: 0px;
 padding: 0px;
 border: 0px;
-
 }
 
-.center {
+.image {
     display: block;
     margin-left: auto;
     margin-right:auto;
@@ -17,26 +16,21 @@ border: 0px;
     color: rgb(0, 38, 255);
     text-align: center;
     font-size: xxx-large;
-
-  }
-  h2 { 
-   text-align: left;
-   font-size: xx-large;
-
   }
 
-p {
+  p {
  font-size: xx-large;
  color: rgb(42, 61, 165);
  margin: 1%;
 
-}
-ul {
-    font-size: xx-large;
+  }
 
-}
+  ul {
+    font-size: x-large;
 
-body { background-color: yellowgreen;}
+  }
+
+body{ background-color: yellowgreen;}
 
 
 @media screen and (min-width: 768px) {
