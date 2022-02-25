@@ -17,35 +17,26 @@ border: 0px;
     text-align: center;
     font-size: xxx-large;
   }
+  
+  h2 {
+    font-size: xx-large;
+  }
 
   p {
  font-size: xx-large;
  color: rgb(42, 61, 165);
  margin: 1%;
-
   }
 
   ul {
     font-size: x-large;
-
   }
 
 body{ background-color: yellowgreen;}
 
-
-@media screen and (min-width: 768px) {
-  body {
-    background-color: yellowgreen;
-  }
-  .column {
-    width: 400px;
-    float: left;
-    padding: 15px;
-  }
-}
 .important {
   color: maroon;
-}
+  }
   
 
   
